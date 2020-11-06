@@ -1,3 +1,3 @@
 
-def hello():
-    print('Hello World')
+def test():
+    print('Pytils is correctly installed')
